@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6A00F4,60:007BFF,100:00D4FF&height=230&section=header&text=MUHEEB&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=IT%20%7C%20NETWORKING%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-# HELLO, I'M MUHEEB 👋
+# HELLO, I'M MUHEEB MUSHTAQ 👋
 
 ### B.Tech CSE Graduate • IT Support • Networking • Systems Administration
 
@@ -31,7 +31,7 @@
 
 # 🟣 whoami.exe
 
-I'm **Muheeb**, a B.Tech Computer Science graduate interested in building practical solutions across **IT infrastructure, networking, systems administration, software development and cybersecurity**.
+I'm **Muheeb Mushtaq**, a B.Tech Computer Science graduate interested in building practical solutions across **IT infrastructure, networking, systems administration, software development and cybersecurity**.
 
 I enjoy learning through hands-on projects, troubleshooting real-world technical problems, experimenting with different technologies and turning ideas into useful applications.
 
@@ -257,13 +257,15 @@ Hands-on learning repository covering:
 
 ---
 
+---
+
 # 📊 github.log // activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=njmuheeb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180">
+> Building consistently. Learning continuously.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmuheeb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180">
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/njmuheeb)
 
 </div>
 
@@ -314,11 +316,27 @@ Development
 ├── Automation
 ├── Testing
 └── AI-Assisted Development
+```
+---
 
+# 🤝 connect.exe
 
-<div align="center"> <a href="https://github.com/njmuheeb"> <img src="https://img.shields.io/badge/GitHub-njmuheeb-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/muheeb-mushtaq-1a4a45434"> <img src="https://img.shields.io/badge/LinkedIn-Muheeb%20Mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:njmuheeb@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<div align="center">
+
+<a href="https://github.com/njmuheeb">
+<img src="https://img.shields.io/badge/GitHub-njmuheeb-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/muheeb-mushtaq-1a4a45434">
+<img src="https://img.shields.io/badge/LinkedIn-Muheeb%20Mushtaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:njmuheeb@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <br><br>
 
-Learning. Building. Troubleshooting. Improving. 🚀
-</div> ```
+### Learning. Building. Troubleshooting. Improving. 🚀
+
+</div>
