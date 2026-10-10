@@ -169,6 +169,43 @@ Application designed around practical dental laboratory workflows.
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 Shared Room Expense Tracker
+
+**Shared Household Expense & Contribution Management Web App**
+
+A web application for managing shared room funds, tracking contributions and expenses, handling reimbursements, and keeping accounting periods organized.
+
+**Focus**
+
+- 👥 Room creation, joining, and member management
+- 💵 Monthly contributions and shared-fund balance tracking
+- 🧾 Expense records and reimbursement workflows
+- 🔐 Role-based permissions for admins/treasurers and members
+- 📅 Close accounting periods and start new periods
+- 📄 Export expense statements as PDF
+- 🗄️ Supabase authentication and PostgreSQL database
+- 🚀 Deployed with Cloudflare Workers
+
+<a href="https://github.com/njmuheeb/Shared_Room_Expense_tracker">
+<img src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://shared-room-expense-tracker.njmuheeb.workers.dev/">
+<img src="https://img.shields.io/badge/Live%20Demo-007BFF?style=for-the-badge&logo=cloudflare&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
 </table>
 
 ### 📚 IT-Networking-Learning-Journey
